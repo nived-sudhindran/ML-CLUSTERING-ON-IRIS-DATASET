@@ -6,6 +6,8 @@ Preprocessing on Data set has been done on the one loaded from SKLEARN built-in 
 
 Dataset had initially 150 Rows. On inspecting 1 Duplicate Row was detected and then removed from it making it 149 rows.
 
+Outliers detected. But not handled as the Dataset is very Small. Now just 149 rows.
+
 Then Standard Scaler is used to Normalize the dataset
 
 Dimensionality Reduction has been done on cleaned dataset to make it 2 featured dataset for plotting purpose
